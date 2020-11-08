@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-color{
+    background-color: #1f3c88;
+    color: #f6f5f5;
+}
+.navbar-brand{
+    color: #f6f5f5;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.home-text{
+    font-family: 'Nunito', sans-serif;
+    padding-top: 10px;
+    color: #070d59;
+}
+.poster-image{
+    padding: 10px;
+}
+.events-align{
+    display: grid;
+    place-items: center;
+}
