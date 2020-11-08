@@ -4,6 +4,11 @@
     padding: 0;
     margin: 0;
 }
+
+main{
+    padding: 0;
+    margin: 0;
+}
 .nav-color{
     background-color: #1f3c88;
     color: #f6f5f5;
@@ -18,10 +23,21 @@
     padding-top: 10px;
     color: #070d59;
 }
+.custom-text-new{
+    font-family: 'Montserrat', sans-serif;
+    color: #f6f5f5;
+}
 .poster-image{
     padding: 10px;
 }
 .events-align{
     display: grid;
     place-items: center;
+}
+footer{
+    background-color: #1f3c88;
+}
+.designation{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }
