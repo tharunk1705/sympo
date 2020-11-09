@@ -10,7 +10,7 @@ main{
     margin: 0;
 }
 .nav-color{
-    background-color: #1f3c88;
+    background: linear-gradient(to bottom,#3072D3,#7864F4 70%);
     color: #f6f5f5;
 }
 .navbar-brand{
@@ -35,7 +35,7 @@ main{
     place-items: center;
 }
 footer{
-    background-color: #1f3c88;
+    background:linear-gradient(to bottom,#3072D3,#7864F4 70%);
 }
 .designation{
     font-family: 'Montserrat', sans-serif;
